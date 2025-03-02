@@ -1,0 +1,8 @@
+NOTAS ACERCA DE CLIENTES
+
+Emplear el siguiente comando antes de levantar la aplicación.
+
+set NODE_OPTIONS=--openssl-legacy-provider
+
+Instalaciones pendientes:
+npm install react-dom

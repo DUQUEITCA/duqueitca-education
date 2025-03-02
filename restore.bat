@@ -1,0 +1,1 @@
+"C:\Program Files\PostgreSQL\17\bin\psql" -U postgres -W -h localhost -d duqueitca < backups_bd/duqueitca-education_20250302.sql

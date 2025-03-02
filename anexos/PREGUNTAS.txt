@@ -1,0 +1,3 @@
+¿Qué recomendaciones me puede dar para la elaboración de un sitio web de educación donde se trate el tema de inteligencia artificial, que sea de diseño atractivo, de fácil uso y que genere renta, cuál sería el mínimo producto víable para iniciar un proyecto de esta naturaleza?
+
+dame un ejemplo de un sitio web, de diseño atractivo, que sea responsive, utilice bootstrap, react y nodejs, cuyo tema sea de eduación en inteligencia artificial, que utilice imagenes libres y contenga acceso a base de datos en postgresql, con una entidad de usuarios
